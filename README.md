@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sakthivel
+- 👋 Hi, I’m Sakthi
 
 
 <!---
