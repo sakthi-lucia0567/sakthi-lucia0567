@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sakthi hello
+- 👋 Hi, I’m Sakthi hello hi
 
 <!---
 sakthi-lucia0567/sakthi-lucia0567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
