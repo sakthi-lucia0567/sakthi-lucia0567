@@ -4,6 +4,8 @@ Hi 👋 My name is Sakthivel A
 Web Developer and Student
 -------------------------
 
+<a href="https://app.daily.dev/Luci02"><img src="https://api.daily.dev/devcards/a90039bf113e4529945e432264f637e1.png?r=95e" width="400" alt="sakthi_l_u_c_i's Dev Card"/></a>
+
 *   🌍  I'm based in Coimbatore,Tamil Nadu.
 *   ✉️  You can contact me at [sakthivela0567@gmail.com](mailto:sakthivela0567@gmail.com)
 *   🧠  I'm learning Reactjs
