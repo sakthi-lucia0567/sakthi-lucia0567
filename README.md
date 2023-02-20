@@ -5,8 +5,9 @@ Web Developer and Student
 -------------------------
 <div id="main">
   <h1>This is Main Div </h1>
-</div>
-<a align="left" href="https://app.daily.dev/Luci02"><img src="https://api.daily.dev/devcards/a90039bf113e4529945e432264f637e1.png?r=95e" width="200" alt="sakthi_l_u_c_i's Dev Card"/></a>
+  <a  href="https://app.daily.dev/Luci02"><img align="right" src="https://api.daily.dev/devcards/a90039bf113e4529945e432264f637e1.png?r=95e" width="200" alt="sakthi_l_u_c_i's Dev Card"/></a>
+
+
 
 *   🌍  I'm based in Coimbatore,Tamil Nadu.
 *   ✉️  You can contact me at [sakthivela0567@gmail.com](mailto:sakthivela0567@gmail.com)
@@ -24,4 +25,4 @@ Web Developer and Student
                                 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
-                  
+                  </div>
