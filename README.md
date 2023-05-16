@@ -5,7 +5,7 @@
 -------------------------
 
 <a href="https://app.daily.dev/Luci02" ><img align="right" src="https://api.daily.dev/devcards/a90039bf113e4529945e432264f637e1.png?r=868" width="200" alt="sakthi_l_u_c_i's Dev Card"/></a>
-
+<b>
 *   🌟 I love collaborating on exciting tech projects and bringing ideas to life. Let's create something amazing together!
 *   🔭 Currently, I'm working on a multitude of projects to master Backend development. I'm passionate about honing my skills and pushing the boundaries of what's possible.
 *  💻 I'm proficient in React, Node.js, and JavaScript. If you have any questions or need assistance in these areas, feel free to reach out!
@@ -13,7 +13,7 @@
 *  📫 You can reach me at sakthivela0567@gmail.com. Feel free to drop me a line and let's connect!
 *  Let's code, collaborate, and make the tech world a better place! 😄🚀
 *  ⌨️ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 😄🐛
-
+</b>
 <h3 align="right">
   <b>programming prowess</b>
 </h3>
