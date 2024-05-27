@@ -4,7 +4,7 @@
 "Coding Maestro from the Land of Byte-sized Marvels!" 
 -------------------------
 
-<a href="https://app.daily.dev/Luci02" ><img align="right" src="https://api.daily.dev/devcards/a90039bf113e4529945e432264f637e1.png?r=868" width="200" alt="sakthi_l_u_c_i's Dev Card"/></a>
+<a href="https://app.daily.dev/luci02"><img src="https://api.daily.dev/devcards/v2/CWGAunzpGVEPfWQ9IZhqB.png?type=default&r=pok" width="356" alt="sakthi_l_u_c_i's Dev Card"/></a>
 <b>
 *   🌟 I love collaborating on exciting tech projects and bringing ideas to life. Let's create something amazing together!
 *   🔭 Currently, I'm working on a multitude of projects to master Backend development. I'm passionate about honing my skills and pushing the boundaries of what's possible.
