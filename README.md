@@ -5,5 +5,5 @@
 ---
 
 <p align="center">
-<a href="https://sakthi.vercel.com"><img src="./assets/sakthi-logo.jpeg" alt="Sakthi logo" width="100"></a>
+<a href="https://sakthi.vercel.com"><img src="./assets/THE CODE BEHIND UPSCALE.png" alt="Sakthi logo" width="100"></a>
 </p>
